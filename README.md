@@ -1,5 +1,6 @@
 # AlcoContextualizer
 
-#Bruised Banana:
+This project is built on top of a data visualization project created by former WPI students. This project added functionality and a realtime data feed while using their data visulaization elements to present results to the user.
 
-![banana](https://cloud.githubusercontent.com/assets/15883609/22224078/5bb07d62-e18b-11e6-9d35-089417506b00.jpg)
+The application mainly focuses on collecting contextual information of a subject’s alcohol drinking habits. 
+It has the ability of figuring out user’s alcohol consumption using movement sensors on the smartphone and then, using other GPS and Bluetooth technologies can predict a trend in the users drinking habits with members of the community. The technology that is used to predict a user’s blood alcohol level through phone sensors was developed in WPI and has featured on the local news.
