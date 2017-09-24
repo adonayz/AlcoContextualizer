@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/nav_home_menu_title" />
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/ic_menu_location"
+            android:title="@string/nav_location_menu_title" />
+        <item
+            android:id="@+id/nav_time"
+            android:icon="@drawable/ic_menu_time"
+            android:title="@string/nav_time_menu_title" />
+        <item
+            android:id="@+id/nav_People"
+            android:icon="@drawable/ic_menu_people"
+            android:title="@string/nav_people_menu_title" />
+        <item
+            android:id="@+id/nav_add_friends"
+            android:icon="@drawable/ic_menu_invite"
+            android:title="@string/nav_add_friends_menu_title" />
+        <item
+            android:id="@+id/sign_out"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="@string/sign_out_title" />
+    </group>
+
+</menu>

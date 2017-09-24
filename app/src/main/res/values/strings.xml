@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">AlcoContextualizer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Navigation Menu-->
+    <string name="nav_home_menu_title">Home</string>
+    <string name="nav_location_menu_title">Drinking Places</string>
+    <string name="nav_time_menu_title">Drinking Time</string>
+    <string name="nav_people_menu_title">Drinking Buddies</string>
+    <string name="nav_add_friends_menu_title">Add Buddies</string>
+    <string name="sign_out_title">Sign Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chart_image">Chart</string>
+
+
+    <!-- Main Screen Chart Names-->
+    <string name="frequent_drinking_locations">Frequent Drinking Locations</string>
+    <string name="recent_drinking_locations">Recent Drinking Locations</string>
+    <string name="monthly_drinks">Monthly Drinks</string>
+    <string name="daily_drinks">Daily Drinks</string>
+    <string name="individuals">Drinks with Individuals</string>
+    <string name="groups">Drinks with Groups</string>
+
+    <!--Intro Sliders-->
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Alco-Contextualizer</string>
+    <string name="slide_1_desc">An application built to help you change your alcoholic behaviour!</string>
+
+    <string name="slide_2_title">Drinking Places</string>
+    <string name="slide_2_desc">Shows you the places you have been drinking recently and frequently</string>
+
+    <string name="slide_3_title">Drinking Times</string>
+    <string name="slide_3_desc">Shows monthly and daily records of your drinking times</string>
+
+    <string name="slide_4_title">Drinking Buddies</string>
+    <string name="slide_4_desc">Shows people and groups that you drink with</string>
+    <string name="pictogram_description">Number of drinks with your friends</string>
+    <string name="action_tutorial">Tutorial</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="web_client_id">773974994987-g89na3ogfp03u3n1kd50hej9v8n0v6h6.apps.googleusercontent.com</string>
+
+
+    <string name="invitation_title">Add friends</string>
+    <string name="invitation_message">Add your friends so that you can track your social drinking behaviour</string>
+    <string name="invitation_deep_link">deep link message here</string>
+    <!--<string name="invitation_custom_image">custom image here</string>-->
+    <string name="invitation_cta">set to call action test here</string>
+
+    <!--<string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>-->
+    <!--<string name="play_again">Play Again</string>-->
+
+</resources>

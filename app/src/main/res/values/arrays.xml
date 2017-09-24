@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="images">
+        <item>@drawable/loc_frequent</item>
+        <item>@drawable/loc_recent</item>
+        <item>@drawable/bar_chart</item>
+        <item>@drawable/line_chart</item>
+        <item>@drawable/pictogram</item>
+        <item>@drawable/tree</item>
+    </array>
+
+
+    <string-array name="names">
+        <item>@string/frequent_drinking_locations</item>
+        <item>@string/recent_drinking_locations</item>
+        <item>@string/monthly_drinks</item>
+        <item>@string/daily_drinks</item>
+        <item>@string/individuals</item>
+        <item>@string/groups</item>
+    </string-array>
+
+</resources>
